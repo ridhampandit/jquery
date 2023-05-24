@@ -37,9 +37,6 @@
           </th>
           <th>M.R.P($)
           </th>
-          <th>
-            Image
-          </th>
             <th>Total($)
           </th>
           <th>Action
@@ -57,7 +54,6 @@
         <span class="error-message-myDropdown"></span></td> 
         <td><input type="number" id="qty" class="qty form-control" name="qty[]"><span class="error-message-qty"></span></td>
         <td><input type="number" id="mrp" class="mrp form-control" name="mrp[]"><span class="error-message-mrp"></span></td>
-        <td><input type="file" class="file form-control" name="file[]"/></td>
         <td><input type="number" class="total form-control" id="total" name="total[]" readonly></td>'
         <td><button type="button" class="btnDelete">Delete</button></td>
       </tr>
